@@ -1,1 +1,3 @@
-This is my first typescript project
+# first-typescript-project
+
+first typescript project
